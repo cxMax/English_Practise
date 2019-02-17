@@ -1,2 +1,4 @@
 # English_Practise
-出国交流一些常用的句子整理
+
+## references
+* 《出国旅行英语，有这一本就够》
